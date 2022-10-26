@@ -1,6 +1,6 @@
 ###  <a href="https://youtu.be/FCU_XJmyG_U">LuciferMoringstar-Robot</a>
 
-<img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
+<img src="https://https://github.com/Dkmovie/Luciferv2-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
 
 <img src="https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar-Robot?style=social"/>   <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social"/>
 
@@ -30,9 +30,9 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ```
 ### Credits
 
-Thanks To [LuciferMoringstar-Robot](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot) [Orginal Code](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot)
-Thanks To [Muhammed](https://github.com/PR0FESS0R-99)
-Thanks To [Developers](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot#credits)
+Thanks To [LuciferMoringstar-Robot](https://github.com/Dkmovie/Luciferv2-Robot) [Orginal Code](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot)
+Thanks To [Muhammed](https://github.com/Dkmovie/Luciferv2)
+Thanks To [Developers](https://github.com/Dkmovie/Luciferv2/LuciferMoringstar-Robot#credits)
 ```
 
 ----
@@ -58,7 +58,7 @@ Thanks To [Developers](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot#c
 
 ### Support
 
-Join Our [Telegram Group](https://telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://telegram.dog/Mo_Tech_YT) For Updates.
+Join Our [Telegram Group](https://telegram.dog/DK_HDmovie) For Support/Assistance And Our [Channel](https://telegram.dog/DK_Gru) For Updates.
 
 Report Bugs, Give Feature Requests There..
 Do Fork And Star The Repository If You Liked It.
